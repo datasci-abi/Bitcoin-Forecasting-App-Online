@@ -1,0 +1,9 @@
+# Ignore large data files
+bitcoin_historical_data.csv
+bitcoin-historical-data.zip
+
+# Ignore virtual environments
+venv/
+bitcoin_historical_data.csv
+bitcoin-historical-data.zip
+venv/
